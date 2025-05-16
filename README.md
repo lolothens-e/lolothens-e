@@ -27,7 +27,7 @@ Correo institucional: annacast@espol.edu.ec
 
 ## Proyectos destacados
 
-### [ReAuto]([https://github.com/lolothens-e/ED-PAO1-2024-P1-6])
+### [ReAuto](https://github.com/lolothens-e/ED-PAO1-2024-P1-6)
 
 - Descripción: Plataforma de compra y venta de autos (Simulación)
 - Tecnologías utilizadas: Java, JavaFX, SceneBuilder
@@ -39,7 +39,7 @@ Correo institucional: annacast@espol.edu.ec
 
 ---
 
-### [Adivina Animal]([https://github.com/lolothens-e/ED-PAO1-2024-P2-6])
+### [Adivina Animal](https://github.com/lolothens-e/ED-PAO1-2024-P2-6)
 
 - Descripción: Proyecto parcial de materia Estructura de Datos, uso de JavaUtil y estructuras de datos, para organización arbórea de elementos. Presentación en forma de juego concurso.
 - Tecnologías utilizadas: Java, JavaFX, SceneBuilder
@@ -51,7 +51,7 @@ Correo institucional: annacast@espol.edu.ec
   - Manejo de Archivos.
 
 ---
-### [Casi Millonario]([(https://github.com/vicbguti-espol/POO-P3-G07/tree/main])
+### [Casi Millonario](https://github.com/vicbguti-espol/POO-P3-G07/tree/main)
 
 - Descripción: Proyecto final de materia Programación Orientada a Objetos. Programa juego concurso simulando "Quien quiere ser millonario".
 - Tecnologías utilizadas: Java, JavaFX, SceneBuilder, HTML, CSS, JS.
@@ -84,19 +84,15 @@ Resumen de lenguajes de programación, frameworks y herramientas utilizados en l
 Las siguientes imágenes ilustran algunas interfaces y elementos técnicos relevantes de los proyectos:
 
 ### Proyecto 1
-
-`/assets/proyecto1-captura.png`  
 ![Captura Proyecto 1](captura-proyecto1.png)
 
 ### Proyecto 2
-
-`/assets/proyecto2-captura.png`  
 ![Captura Proyecto 2](captura-proyecto2.png)
 
 ---
 
 ## Información de contacto
-- LinkedIn: [https://linkedin.com/in/tu-perfil](https://linkedin.com/in/lolothens-e)
+- LinkedIn: https://linkedin.com/in/lolothens-e
 
 ---
 
