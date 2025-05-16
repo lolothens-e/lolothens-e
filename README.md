@@ -86,18 +86,12 @@ Las siguientes imágenes ilustran algunas interfaces y elementos técnicos relev
 ### Proyecto 1
 
 `/assets/proyecto1-captura.png`  
-![Captura Proyecto 1](assets/proyecto1-captura.png)
+![Captura Proyecto 1](captura-proyecto1.png)
 
 ### Proyecto 2
 
 `/assets/proyecto2-captura.png`  
-![Captura Proyecto 2](assets/proyecto2-captura.png)
-
-### Proyecto 3
-
-`/assets/proyecto2-captura.png`  
-![Captura Proyecto 3](assets/proyecto3-captura.png)
-
+![Captura Proyecto 2](captura-proyecto2.png)
 
 ---
 
